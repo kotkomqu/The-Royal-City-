@@ -1,0 +1,13 @@
+{
+   "name": "𝓣𝓱𝓮 𝓡𝓸𝔂𝓪𝓵 𝓒𝓲𝓽𝔂", 
+   "description": "I dont know"
+   "version": 0.0.0
+   "main": bot.js
+   "scripts": {
+   "starit": "node bot.js
+   }
+   "dependecies": {
+   "discord.js": 11.1.0
+   "request": 2.81.0
+   }
+ }
